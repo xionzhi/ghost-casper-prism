@@ -1,0 +1,16 @@
+Sitemap: https://xionzhi.com/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /ghost/
+Disallow: /rss/
+
+User-agent: Googlebot-Image
+Disallow: /ghost/
+Disallow: /rss/
+
+User-agent: bingbot
+Disallow: /ghost/
+Disallow: /rss/
+
+User-Agent: *
+Disallow: /
