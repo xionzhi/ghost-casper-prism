@@ -1,4 +1,4 @@
-const images = document.querySelectorAll('.kg-image-card img, .kg-gallery-card img');
+const images = document.querySelectorAll('.post-content img');
 
 // Lightbox function
 images.forEach(function (image) {
