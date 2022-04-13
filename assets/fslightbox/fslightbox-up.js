@@ -22,5 +22,5 @@ if (typeof(codeElement) != 'undefined' && codeElement != null)
     wrapper.appendChild(image);
   });
 
-  refreshFsLightbox();
+  // refreshFsLightbox();
 }
