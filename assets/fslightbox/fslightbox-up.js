@@ -6,9 +6,7 @@ if (typeof(codeElement) != 'undefined' && codeElement != null)
   var fslightboxScript = document.createElement('script');
   fslightboxScript.type='text/javascript';
   fslightboxScript.src="/assets/fslightbox/fslightbox.js?v=1";
-  fslightboxScript.onload = function() {
-    
-  };
+  fslightboxScript.onload = function() {};
   document.head.appendChild(fslightboxScript);
 
   const images = document.querySelectorAll('.post-content img');
